@@ -12,6 +12,8 @@ This project demonstrates the development of a voice-controlled system for the U
 ![5469645748174970779](https://github.com/user-attachments/assets/3ecfbc3c-8b4d-4e00-a042-d69b2594e0fb)
 
 
+
+
 <br/>
 
 The project successfully localized Unitree Go2’s capabilities for Kazakh-speaking users, showcasing the potential for AI-driven robotics in culturally specific applications.
