@@ -1,6 +1,6 @@
 ---
 title: "Semi-Autonomous Water Drone for Trash Collection with Computer Vision"
-excerpt: "semi-autonomous water drone for trash collection using Raspberry Pi 5 and RealSense D435i <br/><img src='/images/bio-photo.jpg'>"
+excerpt: "Semi-autonomous water drone for trash collection using Raspberry Pi 5 and RealSense D435i <br/><img src='/images/bio-photo.jpg'>"
 collection: portfolio
 ---
 
