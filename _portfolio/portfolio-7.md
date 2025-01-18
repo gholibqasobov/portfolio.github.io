@@ -1,6 +1,7 @@
 ---
 title: "Semi-Autonomous Water Drone for Trash Collection with Computer Vision"
-excerpt: "Semi-autonomous water drone for trash collection using Raspberry Pi 5 and RealSense D435i <br/><img src='/images/bio-photo.jpg'>"
+excerpt: "Semi-autonomous water drone for trash collection using Raspberry Pi 5 and RealSense D435i <br/> ![5233692386805277691](https://github.com/user-attachments/assets/ff1d78c0-f727-4c95-8fb0-17438e9f2e13)
+"
 collection: portfolio
 ---
 
@@ -13,7 +14,8 @@ Highlights:
     - Recognition: Finalist in the Kazenergy Eco-Shell competition, showcasing the project's innovation and impact.
 <br/>
 
-<img src='/images/3953273590_704e3899d5_m.jpg'>
+![5233692386805277691](https://github.com/user-attachments/assets/1f52e6cf-d239-42b0-a34a-79ac74a144ed)
+
 
 <br/>
 
