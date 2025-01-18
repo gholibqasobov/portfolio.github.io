@@ -1,14 +1,15 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio_profile_pic.jpg'>"
+title: "Unitree Go2 voice control in Kazakh Language"
+excerpt: "Voice-controlled system for the Unitree Go2 quadruped robot using ROS2 Humble <br/><img src='/images/bio-photo.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project demonstrates the development of a voice-controlled system for the Unitree Go2 quadruped robot, with commands implemented in the Kazakh language. Leveraging the ROS2 Humble platform and an offline large language model (LLM), the system enables seamless and efficient communication without relying on external servers, ensuring low latency and enhanced privacy.
 
 <br/>
-![portfolio_profile_pic](https://github.com/user-attachments/assets/5d7f4fed-c44d-4295-80b7-b4883b289797)
 
+<img src='/images/3953273590_704e3899d5_m.jpg'>
 
 <br/>
-this is additional text to support the picture
+
+The project successfully localized Unitree Go2’s capabilities for Kazakh-speaking users, showcasing the potential for AI-driven robotics in culturally specific applications.
