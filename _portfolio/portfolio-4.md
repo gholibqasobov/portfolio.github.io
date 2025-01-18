@@ -1,6 +1,7 @@
 ---
 title: "KUKA PowerBank Assembly and Simulation in RoboDK"
-excerpt: "Collaborated on designing and simulating a custom end-effector for KUKA manipulator in RoboDK <br/><img src='/images/bio-photo.jpg'>"
+excerpt: "Collaborated on designing and simulating a custom end-effector for KUKA manipulator in RoboDK <br/> ![5215508693569891503](https://github.com/user-attachments/assets/abffad41-15b1-4ccc-bc04-53df68f1e833)
+"
 collection: portfolio
 ---
 
@@ -14,7 +15,8 @@ Highlights:
 
 <br/>
 
-<img src='/images/3953273590_704e3899d5_m.jpg'>
+![5215508693569891503](https://github.com/user-attachments/assets/70319d8a-a588-4f41-b3b1-2a286d3a73e6)
+
 
 <br/>
 
