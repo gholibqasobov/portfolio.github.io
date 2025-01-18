@@ -1,6 +1,7 @@
 ---
 title: "Feedback Control Systems: Ball and Beam PID Control"
-excerpt: "Developed and implemented a PID-controlled Ball-and-Beam system using ESP32, servo motors, and ultrasonic sensors. <br/><img src='/images/bio-photo.jpg'>"
+excerpt: "Developed and implemented a PID-controlled Ball-and-Beam system using ESP32, servo motors, and ultrasonic sensors. <br/>![image](https://github.com/user-attachments/assets/944d1de1-2265-4358-99d4-8a97e8efc18b)
+"
 collection: portfolio
 ---
 
@@ -15,7 +16,8 @@ Highlights:
     
 <br/>
 
-<img src='/images/3953273590_704e3899d5_m.jpg'>
+![5215508693569891519](https://github.com/user-attachments/assets/a0682396-3a4d-432d-8d13-d327321dcf8d)
+
 
 <br/>
 
