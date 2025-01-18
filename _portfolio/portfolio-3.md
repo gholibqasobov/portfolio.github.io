@@ -1,6 +1,6 @@
 ---
 title: "Unitree Go2 Teleoperation"
-excerpt: "Keyboard teleoperation for Unitree Go2 using ROS2 Humble, with front camera access <br/><img src='/images/bio-photo.jpg'>"
+excerpt: "Keyboard teleoperation for Unitree Go2 using ROS2 Humble, with front camera access <br/>/home/qasob/Downloads/5215508693569891487.jpg"
 collection: portfolio
 ---
 
@@ -8,7 +8,7 @@ This project showcases teleoperation of the Unitree Go2 quadruped robot using ke
 
 <br/>
 
-<img src='/images/3953273590_704e3899d5_m.jpg'>
+![alt text](5215508693569891487.jpg)
 
 <br/>
 
