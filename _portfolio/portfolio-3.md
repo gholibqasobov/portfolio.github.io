@@ -1,5 +1,5 @@
 ---
-title: "Unitree Go2 Teleoperation with Keyboard"
+title: "Unitree Go2 Teleoperation"
 excerpt: "Keyboard teleoperation for Unitree Go2 using ROS2 Humble, with front camera access <br/><img src='/images/bio-photo.jpg'>"
 collection: portfolio
 ---
