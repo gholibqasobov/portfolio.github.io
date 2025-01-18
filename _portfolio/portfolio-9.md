@@ -1,6 +1,7 @@
 ---
 title: "OpenManipulator Master and Slave"
-excerpt: "Master-slave control system with OpenManipulator in ROS1 Noetic <br/><img src='/images/bio-photo.jpg'>"
+excerpt: "Master-slave control system with OpenManipulator in ROS1 Noetic <br/> ![5215508693569891520](https://github.com/user-attachments/assets/44c2f438-e801-4dd4-9fbc-7220b6ebe9bc)
+"
 collection: portfolio
 ---
 
@@ -8,7 +9,8 @@ This project involved developing a master-slave control system using OpenManipul
     
 <br/>
 
-<img src='/images/3953273590_704e3899d5_m.jpg'>
+![5215508693569891520](https://github.com/user-attachments/assets/7e8e7a8f-5c2d-4fbb-855f-68c12a7b3733)
+
 
 <br/>
 
