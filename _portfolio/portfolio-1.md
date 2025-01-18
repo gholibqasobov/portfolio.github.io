@@ -1,6 +1,7 @@
 ---
 title: "Unitree Go2 voice control in Kazakh Language"
-excerpt: "Voice-controlled system for the Unitree Go2 quadruped robot using ROS2 Humble <br/><img src='/home/qasob/portfolio.github.io/images/go2_standing.jpg'>"
+excerpt: "Voice-controlled system for the Unitree Go2 quadruped robot using ROS2 Humble <br/>![5469645748174970779](https://github.com/user-attachments/assets/4dcf2802-d328-46a6-a68c-63bf00f5eeba)
+"
 collection: portfolio
 ---
 
@@ -8,7 +9,8 @@ This project demonstrates the development of a voice-controlled system for the U
 
 <br/>
 
-<img src='/images/3953273590_704e3899d5_m.jpg'>
+![5469645748174970779](https://github.com/user-attachments/assets/3ecfbc3c-8b4d-4e00-a042-d69b2594e0fb)
+
 
 <br/>
 
