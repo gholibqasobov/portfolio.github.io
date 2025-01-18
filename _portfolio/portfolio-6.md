@@ -1,6 +1,7 @@
 ---
 title: "Tic-Tac-Toe Playing Robot Against Human"
-excerpt: "Interactive Tic-Tac-Toe-playing robot using ROS2 Humble and YOLOv8 <br/><img src='/images/bio-photo.jpg'>"
+excerpt: "Interactive Tic-Tac-Toe-playing robot using ROS2 Humble and YOLOv8 <br/> ![5215508693569891513](https://github.com/user-attachments/assets/57e92321-284a-4cd8-822f-ed913a69a04f)
+"
 collection: portfolio
 ---
 
@@ -15,7 +16,8 @@ Highlights:
 
 <br/>
 
-<img src='/images/3953273590_704e3899d5_m.jpg'>
+![5215508693569891513](https://github.com/user-attachments/assets/bb8bffd4-5dc4-485a-aff9-4dc1a36a55d8)
+
 
 <br/>
 
