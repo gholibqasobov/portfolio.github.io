@@ -14,7 +14,7 @@ name                     : &name "Gholibjon Qasobov"
 description              : &description "personal description"
 url                      : https://gholibqasobov.github.io/portfolio.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "gholibqasobov/portfolio.github.io" # "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -31,8 +31,8 @@ author:
 
   # Academic websites
 
-  orcid            : "http://orcid.org/yourorcidurl"
-  researchgate     : "my_url"# URL
+  orcid            : "https://orcid.org/0009-0006-0748-998X"
+  researchgate     : "https://www.researchgate.net/profile/Gholibjon-Qasobov"# URL
 
   # Repositories and software development
 
@@ -41,7 +41,7 @@ author:
 
   # Social media
   linkedin         : gholibjonqasobov-09052004y
-  telegram         : # URL
+  telegram         : t.me/iqasob
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
