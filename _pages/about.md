@@ -19,13 +19,13 @@ redirect_from:
 
 # 🏆 Selected Experience
 
-## 🔬 Robotics Research Assistant
+### 🔬 Robotics Research Assistant
 
   * Conducted cutting-edge research in robotics, focusing on autonomous navigation and manipulators using ROS, C++, and Python.
   
   * Key projects included implementing ArUco detection and enhancing the functionality of a robotic arm manipulator for autonomous elevator operations.
 
-## 📜 Research Paper Collaborator
+### 📜 Research Paper Collaborator
 
   * Contributed to a [research paper](https://gholibqasobov.github.io/portfolio.github.io/publication/2015-10-01-paper-title-number-3) published in the KBTU Herald journal.
 
