@@ -6,7 +6,7 @@
 
 main:
   - title: "CV"
-    url: /cv/
+    url: /files/my-robotics-cv.pdf
     
   - title: "Portfolio"
     url: /portfolio/
