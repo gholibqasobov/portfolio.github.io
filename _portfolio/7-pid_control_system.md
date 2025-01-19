@@ -7,11 +7,19 @@ collection: portfolio
 
 This research project explored the development, modeling, and control of a Ball-and-Beam system using Proportional-Integral-Derivative (PID) controllers. The system serves as a benchmark in control engineering education and research, providing insights into nonlinear dynamics and feedback control principles. The objective was to stabilize the position of a steel ball on a beam by adjusting the beam angle through a servo motor, overcoming inherent instability with feedback control mechanisms.
 
-Highlights:
-    - Mathematical Modeling: Developed a model using physical laws and linear approximations.
+Highlights: <br/><br/>
+    - Mathematical Modeling: Developed a model using physical laws and linear approximations. 
+
+
     - Transfer Function Derivation: Facilitated effective PID controller design.
+
+
     - Simulations: Conducted to determine initial PID coefficients and predict system behavior.
+
+
     - Hardware Implementation: Built a prototype using an ESP32 microcontroller, servo motor, ultrasonic sensors, and a rail system.
+
+    
     - Experimental Insights: Real-world tests revealed bounded oscillations due to unmodeled dynamics, sensor noise, and actuator overshoot, contrasting with smoother theoretical predictions.
     
 <br/>
