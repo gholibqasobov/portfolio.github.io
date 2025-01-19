@@ -22,3 +22,7 @@ Highlights: <br/><br/>
 <br/>
 
 This project demonstrated the potential of robotics to enhance human-robot interaction through fun and meaningful experiences. The public response at ITFest 2024 highlighted its innovative design and technical sophistication.
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a_9AHTZ-aNk?si=jRGztw250jhHe6uk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>

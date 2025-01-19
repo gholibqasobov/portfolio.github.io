@@ -10,6 +10,8 @@ This project showcases teleoperation of the Unitree Go2 quadruped robot using ke
 <br/>
 
 ![5215508693569891487](https://github.com/user-attachments/assets/2f511c9a-0327-41fe-beae-77a2e1a9a5f3)
+<br/>
+TODO: Add video of teleoperation
 
 
 <br/>

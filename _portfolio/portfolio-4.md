@@ -7,17 +7,20 @@ collection: portfolio
 
 This collaborative project, developed alongside Dosymzhan Birzhanuly and Akniyazov Esimzhan, focused on designing and implementing a versatile end-effector to streamline the assembly of power banks. The end-effector features two tool-center-points (TCP): a vacuum gripper for precise object handling and a screwdriver for assembly tasks. Designed in Fusion360 and 3D-printed, the custom end-effector was integrated with a KUKA manipulator. The manipulator program was developed in RoboDK and thoroughly tested in simulation before real-world application.
 
-Highlights:
-    - Custom End-Effector Design: Created a dual-function tool with vacuum gripper and screwdriver capabilities.
-    - Simulation and Testing: Verified manipulator operations in RoboDK simulations to ensure reliability.
-    - Practical Success: Successfully automated the assembly of a power bank in practice.
-    - Collaborative Development: Worked in a team to design, test, and implement the solution.
+Highlights: <br/> <br/>
+    - Custom End-Effector Design: Created a dual-function tool with vacuum gripper and screwdriver capabilities. <br/>
+    - Simulation and Testing: Verified manipulator operations in RoboDK simulations to ensure reliability. <br/>
+    - Practical Success: Successfully automated the assembly of a power bank in practice. <br/>
+    - Collaborative Development: Worked in a team to design, test, and implement the solution. <br/>
 
 <br/>
 
-![5215508693569891503](https://github.com/user-attachments/assets/70319d8a-a588-4f41-b3b1-2a286d3a73e6)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/67aNfh2fUpI?si=n-3FlURjdxBHUv0b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br/>
+
+Prototype Simulation in RoboDK <br.> <br/>
+
+TODO: Add the simulation screencast <br/> <br>
 
 The project demonstrated the effective integration of simulation, design, and automation, showcasing a real-world application of robotics in assembly tasks.

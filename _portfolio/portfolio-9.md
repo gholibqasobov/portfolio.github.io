@@ -9,8 +9,7 @@ This project involved developing a master-slave control system using OpenManipul
     
 <br/>
 
-![5215508693569891520](https://github.com/user-attachments/assets/7e8e7a8f-5c2d-4fbb-855f-68c12a7b3733)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d7HouiMMz5A?si=mwDJIc5HCv36NbjN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br/>
 

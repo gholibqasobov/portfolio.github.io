@@ -16,8 +16,10 @@ Highlights:
     
 <br/>
 
-![5215508693569891519](https://github.com/user-attachments/assets/a0682396-3a4d-432d-8d13-d327321dcf8d)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zdxq_YxgzDI?si=sYdGBSQdJkYxEq_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br/>
 
+TODO: add mathematical model and MATLAB 
 
 <br/>
 
