@@ -13,7 +13,7 @@ redirect_from:
 🤖 My passions include industrial manipulators and autonomous mobile robots.
 
 
-🚀 Currently, I’m working on my next big project: “All-Direction Autonomous Mobile Robot”.
+🚀 Currently, I’m involved in ongoing research: “Development of an Automated Maintenance Inspection System in Multi-Floor Residential and Industrial Complexes Using a Mobile-Legged Robot Navigating Through Elevators.”
 
 <br/>
 
