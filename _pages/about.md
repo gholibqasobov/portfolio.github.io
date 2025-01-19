@@ -15,7 +15,7 @@ redirect_from:
 
 🚀 Currently, I’m working on my next big project: “All-Direction Autonomous Mobile Robot”.
 
-
+==========
 # 🏆 Selected Experience
 
 ## 🔬 Robotics Research Assistant
@@ -28,7 +28,7 @@ redirect_from:
 
   * Contributed to a [research paper](https://gholibqasobov.github.io/portfolio.github.io/publication/2015-10-01-paper-title-number-3) published in the KBTU Herald journal.
 
-
+=========
 # 🎉 Activities and Achievements
 
 🏅 Finalist in the Electrical Engineering Olympiad hosted by Satpayev University.
@@ -39,6 +39,6 @@ redirect_from:
 
 🤖 Represented the KBTU Robotics Stand and served as a judge in Robo-Football during ITFest 2024.
 
-
+========
 # Projects
 💼 Feel free to check my specific [portfolio](https://gholibqasobov.github.io/portfolio.github.io/portfolio/) entry for more details!
