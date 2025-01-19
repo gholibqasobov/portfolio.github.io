@@ -19,8 +19,14 @@ Highlights: <br/> <br/>
 
 <br/>
 
-Prototype Simulation in RoboDK <br.> <br/>
+### Prototype Simulation in RoboDK (first version, without conveyor belt and DoBot)<br.> <br/>
 
-TODO: Add the simulation screencast <br/> <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SLWoPt5JoZ0?si=LqEQeZf2UhMqOt3r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/><br/>
+
+### PowerBank and End-Effector Model in Fusion360: 
+
+
 
 The project demonstrated the effective integration of simulation, design, and automation, showcasing a real-world application of robotics in assembly tasks.

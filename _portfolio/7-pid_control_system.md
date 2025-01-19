@@ -19,7 +19,8 @@ Highlights: <br/><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zdxq_YxgzDI?si=sYdGBSQdJkYxEq_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br/>
 
-TODO: add mathematical model and MATLAB 
+
+You can review this [paper](https://drive.google.com/file/d/1-vqgmfIDyg_o_9-PwENHKyO2aj35ytrh/view?usp=sharing) for detailed insights into the mathematical modeling, MATLAB simulations, and the comparison between the theoretical model and practical assembly.
 
 <br/>
 
