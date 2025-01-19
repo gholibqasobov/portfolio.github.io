@@ -16,6 +16,8 @@ Highlights: <br/> <br/>
 
 3D-Printed Corpus: <br/><br/>
 ![5233692386805277691](https://github.com/user-attachments/assets/1f52e6cf-d239-42b0-a34a-79ac74a144ed) <br/>
+![water_drone_printed](https://github.com/user-attachments/assets/88c1d348-5544-4b6c-9322-052197495343) <br/>
+
 
 Bottle Detection: <br/><br/>
 
