@@ -12,6 +12,10 @@ This project demonstrates the development of a voice-controlled system for the U
 ![5469645748174970779](https://github.com/user-attachments/assets/3ecfbc3c-8b4d-4e00-a042-d69b2594e0fb)
 
 
+<video width="600" controls>
+  <source src="/videos/go2_voice_control.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 <br/>
