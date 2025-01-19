@@ -27,7 +27,7 @@ redirect_from:
 
 ### 📜 Research Paper Collaborator
 
-  * Contributed to a [research paper](https://gholibqasobov.github.io/portfolio.github.io/publication/2015-10-01-paper-title-number-3) published in the KBTU Herald journal.
+  * Contributed to a [research paper](https://gholibqasobov.github.io/portfolio.github.io/publication/2024-07-01-development-mobile-robot-smart-warehouse) published in the KBTU Herald journal.
 
 <br/>
 
