@@ -26,7 +26,8 @@ Highlights: <br/> <br/>
 <br/><br/>
 
 ### PowerBank and End-Effector Model in Fusion360: 
+![image](https://github.com/user-attachments/assets/0ce4c084-9411-4a1f-8d31-a5df85d6da6c)
 
-
+<br/><br/>
 
 The project demonstrated the effective integration of simulation, design, and automation, showcasing a real-world application of robotics in assembly tasks.
