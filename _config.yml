@@ -21,7 +21,7 @@ repository               : "gholibqasobov/portfolio.github.io" # "academicpages/
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpg"
+  avatar           : "profile_picture.png"
   name             : "Gholibjon Qasobov"
   bio              : "Automation and Robotics Engineer"
   location         : "Almaty, Kazakhstan"
