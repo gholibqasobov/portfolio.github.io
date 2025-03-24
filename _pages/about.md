@@ -23,7 +23,7 @@ redirect_from:
 
   * Conducted cutting-edge research in robotics, focusing on autonomous navigation and manipulators using ROS, C++, and Python.
   
-  * Key projects included implementing ArUco detection and enhancing the functionality of a robotic arm manipulator for autonomous elevator operations.
+  * Key projects included implementing ArUco and AprilTag detection and enhancing the functionality of a robotic arm manipulator for autonomous elevator operations.
 
 ### 📜 Research Paper Collaborator
 
