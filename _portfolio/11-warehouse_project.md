@@ -1,6 +1,6 @@
 ---
-title: "Development of a Mobile Robot Platform for Smart Warehouse Management"
-excerpt: "Published in *Herald of Kazakh-British Technical University* (2024). Designed and implemented a smart warehouse mobile robot platform with path-planning, navigation, and real-world experimentation. <br/> ![warehouse-robot](/images/warehouse_robot.png)
+title: "Development of a Mobile Robot Platform for Smart Warehouse Managementtt"
+excerpt: "Published in *Herald of Kazakh-British Technical University* (2024). Designed and implemented a smart warehouse mobile robot platform with path-planning, navigation, and real-world experimentation. <br/> 
 "
 collection: portfolio
 ---
