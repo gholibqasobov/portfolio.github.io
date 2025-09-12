@@ -23,6 +23,13 @@ Highlights: <br/><br/>
 
 <br/>
 
+### Process Block Diagram
+
+![warehouse-process-bd](https://github.com/user-attachments/assets/195a101c-c4db-4e42-a7f1-5b9f121acbf4)
+
+
+<br/><br/>
+
 ### Results
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-gAto5H01gM?si=Tey577KbeERDOor0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
