@@ -22,11 +22,12 @@ Highlights: <br/><br/>
 
 <iframe width="560" height="315" src="https://youtu.be/-gAto5H01gM" title="WareHouse Robot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+
 <br/><br/>
 
-### Experimental Platform:
-![warehouse-robot](https://github.com/user-attachments/assets/your-uploaded-image-id)
-
+### Presentation of the project:
+<iframe width="560" height="315" src="https://youtu.be/toIyps5X9Nw" title="WareHouse Robot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; en
 <br/><br/>
 
 This project showcased how **simulation-driven development and robust navigation algorithms** can be effectively transferred to real-world mobile robots, contributing to the advancement of **smart warehouse automation**.  
