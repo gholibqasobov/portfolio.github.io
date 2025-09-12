@@ -1,6 +1,8 @@
 ---
 title: "Custom 4WD Differential Robot Design and Simulation in Isaac Sim"
-excerpt: "Designed and simulated a custom 4WD differential-drive robot in Fusion360 and imported it into NVIDIA Isaac Sim for future Reinforcement Learning. <br/> 
+excerpt: "Designed and simulated a custom 4WD differential-drive robot in Fusion360 and imported it into NVIDIA Isaac Sim for future Reinforcement Learning. <br/> ![Screenshot from 2025-09-12 15-42-11](https://github.com/user-attachments/assets/240b8c0c-c59a-4f93-8e9b-ab1444991abc)
+
+
 
 "
 collection: portfolio
