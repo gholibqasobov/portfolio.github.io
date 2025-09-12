@@ -1,6 +1,7 @@
 ---
 title: "Autonomous Elevator Operation with Unitree Go2 Robot Dog"
-excerpt: "Developed a fully autonomous robotic system using Unitree Go2, ROS2, and computer vision to detect elevator panels, dock, press buttons, and operate elevators. <br/> ![robot-dog-image](https://github.com/user-attachments/assets/your-uploaded-image-id)
+excerpt: "Developed a fully autonomous robotic system using Unitree Go2, ROS2, and computer vision to detect elevator panels, dock, press buttons, and operate elevators. <br/> ![elevator_dog_wme](https://github.com/user-attachments/assets/553a5174-18b3-4448-ac30-46820a85627a)
+
 "
 collection: portfolio
 ---
