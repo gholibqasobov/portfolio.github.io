@@ -15,12 +15,12 @@ Highlights: <br/><br/>
 - **Expandability**: Planning on to design the platform for integration with AI, computer vision, and reinforcement learning projects. <br/>
 <br/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z3d-aZKCHB0?si=D93ypzwptE6hPFim" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br/><br/>
 
 ### Robot Model in Fusion360:
-![fusion360-model](https://github.com/user-attachments/assets/your-uploaded-fusion360-image-id)
+
 
 <br/><br/>
 
