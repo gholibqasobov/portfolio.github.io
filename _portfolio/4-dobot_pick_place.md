@@ -1,6 +1,7 @@
 ---
 title: "DoBot Pick and Place Using AprilTag Technology in ROS"
-excerpt: "Pick-and-place system using DoBot and AprilTag technology in ROS1 Noetic<br/> ![image](https://github.com/user-attachments/assets/8db39076-79eb-4789-9d5b-e9a9904ecc3b)
+excerpt: "Pick-and-place system using DoBot and AprilTag technology in ROS1 Noetic<br/> <img width="567" height="265" alt="dobot_pickplace_main-pic" src="https://github.com/user-attachments/assets/5a950b22-3e50-4643-b6fb-60b39a8d1434" />
+
 "
 collection: portfolio
 ---
