@@ -15,7 +15,7 @@ redirect_from:
 
 🚀 Currently, I’m involved in ongoing research: “Development of an Automated Maintenance Inspection System in Multi-Floor Residential and Industrial Complexes Using a Mobile-Legged Robot Navigating Through Elevators.”
 
-Additionally, I am expanding my expertise in reinforcement learning using NVIDIA frameworks and actively working on the development of a custom mobile robotic platform.
+🟩 Additionally, I am expanding my expertise in reinforcement learning using NVIDIA frameworks and actively working on the development of a custom mobile robotic platform.
 
 <br/>
 
@@ -33,7 +33,7 @@ Additionally, I am expanding my expertise in reinforcement learning using NVIDIA
   
   * Contributing to the development of laboratory practice manuals and documentation for robotics laboratory work.
 
-### Robotic Software Engineer in Alma-Valley
+### 🍎 Robotic Software Engineer in Alma-Valley
 
 * Recorded Raspberry Pi tutorials for Uni-X platform to support educational initiatives
 
