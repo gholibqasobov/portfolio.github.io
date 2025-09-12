@@ -1,13 +1,15 @@
 ---
 title: "Development of a Mobile Robot Platform for Smart Warehouse Managementtt"
-excerpt: "Published in *Herald of Kazakh-British Technical University* (2024). Designed and implemented a smart warehouse mobile robot platform with path-planning, navigation, and real-world experimentation. <br/> 
+excerpt: "Published in *Herald of Kazakh-British Technical University* (2024). Designed and implemented a smart warehouse mobile robot platform with path-planning, navigation, and real-world experimentation. <br/>  ![warehouse-robot](https://github.com/user-attachments/assets/warehouse-process-bd.png)
 "
 collection: portfolio
 ---
 
 This research project, published in the **Herald of Kazakh-British Technical University (2024)**, presents the design and implementation of a **mobile robot platform for smart warehouse management systems**. The work was conducted collaboratively with co-authors **T. I. Samigulin, K. A. Mlikova, R. R. Tolengutov, D. A. Butakova, A. Z. Nakhimov, and G. L. Qasobov**.
 
-The platform was based on a **modified TurtleBot3**, upgraded from the Burger to the Waffle configuration, and equipped with a **robotic arm mounted on a custom platform**. The system was tasked with navigating through warehouse cells, transporting payloads, and placing them accurately in goal cells.
+The platform was based on a **modified TurtleBot3**, upgraded from the Burger to the Waffle configuration, and equipped with a **elevating platform mounted on a custom platform**. The system was tasked with navigating through warehouse cells, transporting payloads, and placing them accurately in goal cells.
+
+![warehouse-robot](https://github.com/user-attachments/assets/warehouse-process-bd.png)
 
 My main contribution focused on the **navigation and path-planning algorithms**. I developed a BFS-based planner and integrated it with **ROS2 Navigation Stack (Nav2)** to enable robust path planning, obstacle avoidance, and autonomous navigation. The workflow included initial testing in **Gazebo simulation**, followed by successful trials on the **real robot platform**.
 
