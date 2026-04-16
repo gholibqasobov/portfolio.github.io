@@ -23,17 +23,17 @@ The goal is to move toward robots that don’t just execute predefined behaviors
 
 ### 📜 Research Collaborator
 
-  * #### Development of a Mobile Robot Platform for Smart Warehouse Management
+  * ### Development of a Mobile Robot Platform for Smart Warehouse Management
       Contributed to a [research paper](https://gholibqasobov.github.io/portfolio.github.io/publication/2024-07-01-development-mobile-robot-smart-warehouse) published in the KBTU Herald journal. 
       Collaborated on developing a LIDAR-based navigation and grid-positioning algorithm for the TurtleBot3 Waffle Pi to enable autonomous warehouse operation. Integrated a 3D-printed lifting mechanism and OPC UA connectivity with Wiren Board 7 and Honeywell Experion PKS for seamless industrial communication.
 
 
-* #### Autonomous Multi-Floor Inspection Mobile Legged-Robot with Elevator Integration **(Nature Scientific Journal (Q1), under review after revision)**.
+* ### Autonomous Multi-Floor Inspection Mobile Legged-Robot with Elevator Integration **(Nature Scientific Journal (Q1), under review after revision)**.
   Designed and implemented an autonomous inspection mobile legged-robot capable of elevator-assisted
   multi-floor navigation, achieving 95 % inspection precision and 90% reliability in floor transitions
 
 
-* #### A vision-based safety system for human–robot collaboration using a real-time digital twin in RoboDK **(JMST 2025 Conference paper, under review after revision)**.
+* ### A vision-based safety system for human–robot collaboration using a real-time digital twin in RoboDK **(JMST 2025 Conference paper, under review after revision)**.
   This work describes a low-cost, vision-based safety monitoring system for Human–Robot Collaboration
   (HRC) in industrial environments
 
