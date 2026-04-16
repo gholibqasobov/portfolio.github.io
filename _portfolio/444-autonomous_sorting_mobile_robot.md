@@ -24,25 +24,25 @@ This project focuses on the development of an autonomous mobile robot designed t
 
 <br/><br/>
 
-![rviz]({{ "/images/fbd.jpg" | relative_url }} 
+![rviz]({{ "/images/fbd.jpg" | relative_url }}) 
 
 
 ### System Architecture
 A complete simulation-to-real pipeline was implemented. The system was first developed and validated in NVIDIA Isaac Sim, where a digital twin of the robot and warehouse environment was created. The robot model, designed in Fusion 360 and converted to URDF, enabled accurate simulation of kinematics, sensors, and physical interactions.
 
 <!-- isaac sim digital twin -->
-![rviz]({{ "/images/isaacsim_dd.png" | relative_url }} 
+![rviz]({{ "/images/isaacsim_dd.png" | relative_url }}) 
 
 
 ### Simulation and Digital Twin
 Autonomous navigation was achieved using ROS2 and the Nav2 stack, incorporating SLAM-based mapping, real-time localization, and dynamic path planning. RViz was used to monitor sensor data and validate the TF tree, ensuring correct alignment of LiDAR, camera, and IMU frames.
 
 <!-- slam and nav -->
-![rviz]({{ "/images/slam.png" | relative_url }}
+![rviz]({{ "/images/slam.png" | relative_url }})
 
 <br/><br/>
 
-![rviz]({{ "/images/nav.png" | relative_url }}
+![rviz]({{ "/images/nav.png" | relative_url }})
 
 
 ### Robot Assembly
