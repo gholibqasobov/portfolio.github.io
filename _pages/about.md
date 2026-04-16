@@ -6,16 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m currently working on learning-based robotics, focusing on Reinforcement Learning, Imitation Learning, and neural control systems.
+I’m currently working on **learning-based robotics**, focusing on **Reinforcement Learning, Imitation Learning**, and **neural control systems**.
 
-🤖 My current research direction explores how Active Inference, reservoir computing, and neural policies can be used to build more adaptive and robust robotic behavior under uncertainty.
+🤖 My current research direction explores how **Active Inference, reservoir computing**, and **neural policies** can be used to build more adaptive and **robust robotic behavior under uncertainty**.
 
 Instead of treating robotics as separate blocks (perception → planning → control), I’m interested in systems where perception, learning, and control emerge as one coupled process.
 
-This is why I focus on combining:
-- classical optimization (like MPPI)
-- learning-based policies (neural networks, RL, IL)
-- probabilistic frameworks (Active Inference)
+This is why **I focus on combining**:
+- **classical optimization** (like MPPI)
+- **learning-based policies** (neural networks, RL, IL)
+- **probabilistic frameworks** (Active Inference)
 
 The goal is to move toward robots that don’t just execute predefined behaviors, but adapt their behavior based on experience and uncertainty.
 
@@ -23,20 +23,19 @@ The goal is to move toward robots that don’t just execute predefined behaviors
 
 ### 📜 Research Collaborator
 
-  * Contributed to a [research paper](https://gholibqasobov.github.io/portfolio.github.io/publication/2024-07-01-development-mobile-robot-smart-warehouse) published in the KBTU Herald journal. Collaborated on developing a LIDAR-based navigation and grid-positioning algorithm for the TurtleBot3 Waffle Pi to enable autonomous warehouse operation. Integrated a 3D-printed lifting mechanism and OPC UA connectivity with Wiren Board 7 and Honeywell Experion PKS for seamless industrial communication.
-
-<br/>
-
-* Autonomous Multi-Floor Inspection Mobile Legged-Robot with Elevator
-Integration **(Nature Scientific Journal (Q1), under review after revision)**. Designed and implemented an autonomous inspection mobile legged-robot capable of elevator-assisted
-multi-floor navigation, achieving 95 % inspection precision and 90% reliability in floor transitions
-
-<br/> 
+  * #### Development of a Mobile Robot Platform for Smart Warehouse Management
+      Contributed to a [research paper](https://gholibqasobov.github.io/portfolio.github.io/publication/2024-07-01-development-mobile-robot-smart-warehouse) published in the KBTU Herald journal. 
+      Collaborated on developing a LIDAR-based navigation and grid-positioning algorithm for the TurtleBot3 Waffle Pi to enable autonomous warehouse operation. Integrated a 3D-printed lifting mechanism and OPC UA connectivity with Wiren Board 7 and Honeywell Experion PKS for seamless industrial communication.
 
 
-* A vision-based safety system for human–robot collaboration using a real-time digital twin in RoboDK **(JMST 2025 Conference paper, under review after revision)**.
-This work describes a low-cost, vision-based safety monitoring system for Human–Robot Collaboration
-(HRC) in industrial environments
+* #### Autonomous Multi-Floor Inspection Mobile Legged-Robot with Elevator Integration **(Nature Scientific Journal (Q1), under review after revision)**.
+  Designed and implemented an autonomous inspection mobile legged-robot capable of elevator-assisted
+  multi-floor navigation, achieving 95 % inspection precision and 90% reliability in floor transitions
+
+
+* #### A vision-based safety system for human–robot collaboration using a real-time digital twin in RoboDK **(JMST 2025 Conference paper, under review after revision)**.
+  This work describes a low-cost, vision-based safety monitoring system for Human–Robot Collaboration
+  (HRC) in industrial environments
 
 
 <br/>
