@@ -1,5 +1,5 @@
 ---
-title: "Vision-Based Teleoperation of Unitree G1 Humanoid Robot"
+title: "DEVELOPMENT OF AN INDUSTRIAL AUTONOMOUS SORTING MOBILE ROBOT FOR SOLVING LOGISTICS PROBLEMS"
 excerpt: "Autonomous warehouse robot for logistics using ROS2, Nav2, and Isaac Sim <br/> ![g1_teleop](/portfolio.github.io/images/diploma_title.png)
 
 "
@@ -20,7 +20,7 @@ Additive manufacturing has significantly improved production efficiency; however
 This project focuses on the development of an autonomous mobile robot designed to streamline logistics in additive manufacturing. The robot operates within an industrial warehouse, autonomously navigating between multiple 3D printers, exchanging filled and empty containers, and maintaining a continuous production cycle while avoiding dynamic obstacles.
 
 <!-- process block diagram  -->
-![rviz]({{ "/images/pbd_isaacsim.png" | relative_url }} 
+![pbd]({{ "/images/pbd_isaacsim.png" | relative_url }})
 
 <br/><br/>
 
@@ -39,6 +39,7 @@ Autonomous navigation was achieved using ROS2 and the Nav2 stack, incorporating 
 
 <!-- slam and nav -->
 ![rviz]({{ "/images/slam.png" | relative_url }}
+
 <br/><br/>
 
 ![rviz]({{ "/images/nav.png" | relative_url }}
@@ -51,6 +52,7 @@ The physical robot was built using a modular aluminum frame, integrating an NVID
 ![isaacsim]({{ "/images/architecture_sys.png" | relative_url }})
 
 <br/><br/>
+
 ![isaacsim]({{ "/images/robot_assembly.png" | relative_url }})
 
 ### Key functionalities
