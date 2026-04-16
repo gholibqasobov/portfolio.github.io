@@ -1,8 +1,8 @@
 ---
 title: "Go2 Locomotion by Reinforcement Learning"
-excerpt: "Unitree Go2 Locomotion Policy Trained with PPO in Isaac Lab"
-header:
-  teaser: go2_camera_isaaclab.png
+excerpt: "Unitree Go2 Locomotion Policy Trained with PPO in Isaac Lab <br/> ![go2_locomotion](/portfolio.github.io/images/go2_camera_isaaclab.png)
+
+"
 
 collection: portfolio
 ---
