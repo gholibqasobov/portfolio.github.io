@@ -53,7 +53,7 @@ The goal is to move toward robots that don’t just execute predefined behaviors
 🤖 Represented the KBTU Robotics Stand and served as a judge in Robo-Football Hackathon during ITFest 2024 & 2025.
 
 
-🌿 Contributed to the setup and operation of the company’s stand at Kazakhstan Machinery Fair 2026 (Astana, April 1–3). Demonstrated the Astorino Kawasaki platform through motion replication, simple trajectory tasks, and pick-and-place operations, along with SimBox HIL simulation for safe programming and testing.
+🌿 Contributed to the setup and operation of the **Arcobo** company’s stand at Kazakhstan Machinery Fair 2026 (Astana, April 1–3). Demonstrated the Astorino Kawasaki platform through motion replication, simple trajectory tasks, and pick-and-place operations, along with SimBox HIL simulation for safe programming and testing.
 
 <br/>
 
