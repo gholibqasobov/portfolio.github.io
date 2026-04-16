@@ -1,6 +1,8 @@
 ---
 title: "Go2 Locomotion by Reinforcement Learning"
-excerpt: "Unitree Go2 Locomotion Policy Trained with PPO in Isaac Lab <br/>  ![go2_locomotion](/portfolio.github.io/images/go2_camera_isaaclab.png)"
+excerpt: "Unitree Go2 Locomotion Policy Trained with PPO in Isaac Lab"
+header:
+  teaser: go2_camera_isaaclab.png
 
 collection: portfolio
 ---
@@ -13,7 +15,6 @@ Reinforcement learning (RL) is a branch of machine learning in which an agent le
 
 
 ### Statement of the problem
-STATEMENT OF THE PROBLEM​
 Quadrupedal robots like Unitree Go1 and Go2 require precise coordination of multiple joints to maintain balance and produce smooth movement.​
 
 
@@ -25,8 +26,6 @@ Reinforcement learning offers a faster, learning-based alternative by enabling t
 ​
 
 ### NVIDIA Omniverse
-NVIDIA Omniverse:​
-
 Isaac Sim is a realistic robot simulator that models physics, sensors, and how the
 robot interacts with its surroundings.​
 
