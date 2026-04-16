@@ -1,61 +1,43 @@
 ---
 permalink: /
-title: "👋 Hello there, I’m Gholibjon!"
+title: "👋 Hi, I’m Gholib!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I’m currently working on learning-based robotics, focusing on Reinforcement Learning, Imitation Learning, and neural control systems.
 
-🎓 I am a fourth-year student at Kazakh-British Technical University (KBTU), specializing in Automation and Robotics.
+🤖 My current research direction explores how Active Inference, reservoir computing, and neural policies can be used to build more adaptive and robust robotic behavior under uncertainty.
 
+Instead of treating robotics as separate blocks (perception → planning → control), I’m interested in systems where perception, learning, and control emerge as one coupled process.
 
-🤖 My academic interests focus on industrial manipulators and autonomous mobile robots, particularly their applications in automation and intelligent systems, with a strong emphasis on artificial intelligence and reinforcement learning.
+This is why I focus on combining:
+- classical optimization (like MPPI)
+- learning-based policies (neural networks, RL, IL)
+- probabilistic frameworks (Active Inference)
 
-
-🚀 Currently, I’m involved in ongoing research: “Development of an Automated Maintenance Inspection System in Multi-Floor Residential and Industrial Complexes Using a Mobile-Legged Robot Navigating Through Elevators.”
-
-🟩 Additionally, I am expanding my expertise in reinforcement learning using NVIDIA frameworks and actively working on the development of a custom mobile robotic platform.
+The goal is to move toward robots that don’t just execute predefined behaviors, but adapt their behavior based on experience and uncertainty.
 
 <br/>
-
-# 🏆 Selected Experience
-
-### 🔬 Robotics Research Assistant
-
-  * Developed an automated maintenance inspection system for multi-floor residential and industrial complexes using a mobile-legged robot capable of elevator navigation, reaching 95 % inspection accuracy and 90 % success in multi-floor transitions.
-
-  * Collaborated on designing and simulating an innovative dual-function end-effector integrating a screwdriver and suction cup for automated power bank assembly using RoboDK
-
-  * Built an AprilTag-based pick-and-place system using a DoBot robotic arm, enabling 95 % positioning accuracy and autonomous object handling within a 30 cm workspace.
-  
-  * Contributing to the development of laboratory practice manuals and documentation for robotics laboratory work.
-
-### 🍎 Robotic Software Engineer in Alma-Valley
-
-* Recorded Raspberry Pi tutorials for Uni-X platform to support educational initiatives
-
-* Designed an autonomous water drone for environmental cleanup using NVIDIA Jetson Orin NX and RealSense D435i, achieving 90 % detection accuracy and 2 kg debris capacity.
-* Developed a Kazakh voice control system for the Unitree Go2 robot using an offline LLM integrated with ROS2
-Humble.
-
-
-### 🔍 Research Intern, Constructor Knowledge Labs, Zurich, Switzerland (remote)
-
-* Researched and implemented Retrieval-Augmented Generation (RAG) for multi-domain question answering.
-* Focused on optimizing context retrieval and structured response generation using Large Language Models
-(LLMs).
-* Evaluated system performance across diverse domain corpora to improve accuracy and coherence
-
-
-
-
-
-
 
 ### 📜 Research Paper Collaborator
 
   * Contributed to a [research paper](https://gholibqasobov.github.io/portfolio.github.io/publication/2024-07-01-development-mobile-robot-smart-warehouse) published in the KBTU Herald journal. Collaborated on developing a LIDAR-based navigation and grid-positioning algorithm for the TurtleBot3 Waffle Pi to enable autonomous warehouse operation. Integrated a 3D-printed lifting mechanism and OPC UA connectivity with Wiren Board 7 and Honeywell Experion PKS for seamless industrial communication.
+
+<br/>
+
+* Autonomous Multi-Floor Inspection Mobile Legged-Robot with Elevator
+Integration **(under review of IEEE)**. Designed and implemented an autonomous inspection mobile legged-robot capable of elevator-assisted
+multi-floor navigation, achieving 95 % inspection precision and 90% reliability in floor transitions
+
+<br/> 
+
+
+* A vision-based safety system for human–robot collaboration using a real-time digital twin in RoboDK **(under review of JMST Conference Paper)**.
+This work describes a low-cost, vision-based safety monitoring system for Human–Robot Collaboration
+(HRC) in industrial environments
+
 
 <br/>
 
@@ -69,7 +51,10 @@ Humble.
 🌿 Finalist in the KazEnergy Eco-Shell Competition (2024).
 
 
-🤖 Represented the KBTU Robotics Stand and served as a judge in Robo-Football Hackathon during ITFest 2024.
+🤖 Represented the KBTU Robotics Stand and served as a judge in Robo-Football Hackathon during ITFest 2024 & 2025.
+
+
+🌿 Contributed to the setup and operation of the company’s stand at Kazakhstan Machinery Fair 2026 (Astana, April 1–3). Demonstrated the Astorino Kawasaki platform through motion replication, simple trajectory tasks, and pick-and-place operations, along with SimBox HIL simulation for safe programming and testing.
 
 <br/>
 
