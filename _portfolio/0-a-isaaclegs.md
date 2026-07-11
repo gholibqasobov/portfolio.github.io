@@ -61,7 +61,7 @@ The framework also supports custom robots and environments through NVIDIA Isaac 
 ### Results
 
 <video width="560" height="315" controls>
-  <source src="{{ '/portfolio.github.io/videos/isaaclegs_overview_vid.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/videos/isaaclegs_overview_vid.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
