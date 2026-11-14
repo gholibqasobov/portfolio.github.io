@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "my_profile_pic.jpg"
   name             : "Gholibjon Qasobov"
-  bio              : "Automation and Robotics Engineer"
+  bio              : "Robotics and Physical AI"
   location         : "Almaty, Kazakhstan"
-  employer         : "Kazakh-British Technical University"
+  employer         : "Freedom X" # "Kazakh-British Technical University"
   uri              : # URL
   email            : "qasobovgholib@gmail.com" 
 

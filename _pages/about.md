@@ -1,61 +1,62 @@
 ---
 permalink: /
-title: "👋 Hi, I’m Gholib!"
+title: "👋 Hi, I'm Gholib!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I’m currently working on **learning-based robotics**, focusing on **Reinforcement Learning, Imitation Learning**, and **neural control systems**.
+I am a **Robotics & Physical AI Engineer at Freedom X**, the R&D lab of Freedom Holding, where I work on **embodied autonomy for last-mile delivery in urban environments**. In **November 2026 our team launched the first robot-dog deliveries in Almaty, Kazakhstan**.
+### 🧭 Research Direction
 
-🤖 My current research direction explores how **Active Inference, reservoir computing**, and **neural policies** can be used to build more adaptive and **robust robotic behavior under uncertainty**.
+Urban sidewalks are among the hardest settings for a mobile robot. They are unstructured and crowded, and the rules governing them are mostly implicit. Pedestrians, cyclists, curbs, ramps, doors and changing terrain all have to be understood rather than merely avoided. Classical pipelines, which split perception, mapping, planning and control into hand-tuned modules, struggle to scale to this long tail of situations.
 
-Instead of treating robotics as separate blocks (perception → planning → control), I’m interested in systems where perception, learning, and control emerge as one coupled process.
+Our goal is to teach **a reasoning-based vision-language-action (VLA) policy for autonomous sidewalk navigation**: a single model that perceives the scene, reasons about it the way a person would, and acts on it. The robot should not only reach its goal safely, but also understand *why* a given action is right in context. This mirrors how end-to-end reasoning models are reshaping autonomous driving, carried over to legged and wheeled-legged robots in pedestrian space.
 
-This is why **I focus on combining**:
-- **classical optimization** (like MPPI)
-- **learning-based policies** (neural networks, RL, IL)
-- **probabilistic frameworks** (Active Inference)
+### ✅ What We Have Achieved So Far
 
-The goal is to move toward robots that don’t just execute predefined behaviors, but adapt their behavior based on experience and uncertainty.
+- **Learned whole-body control.** A hierarchy of reinforcement-learning policies, trained entirely in simulation: robust locomotion over rough terrain, goal-directed navigation, and a learned safety layer that avoids obstacles in real time. Each level builds on the frozen level beneath it.
+- **Sim-to-real transfer.** These policies have been deployed on the physical robot, with the full chain validated in high-fidelity digital twins before every real-world run.
+- **Real-world operation.** The autonomy stack now supports the robot dogs in real deliveries on the streets of Almaty in Kazakhstan.
+- **Photorealistic closed-loop simulation.** A simulator that reconstructs real recorded sidewalks as neural 3D scenes, preserving the real pedestrians and vehicles as replayable agents. A policy can therefore be trained and evaluated against what the robot would actually see.
+
+### 🔭 What Comes Next
+
+The next stage is to move from reactive control to **reasoning**. We are collecting real-world sidewalk data, scaling the reconstructed-scene simulator into a closed-loop training and evaluation environment, and training a VLA policy that unifies perception, reasoning and action for urban navigation. In the long run, I am working toward robots that learn robust, interpretable behavior in simulation and carry it reliably into the complexity of the real world.
 
 <br/>
 
-### 📜 Research Collaborator
+### 📜 Publications
 
-  * ### Development of a Mobile Robot Platform for Smart Warehouse Management
-      Contributed to a [research paper](https://gholibqasobov.github.io/portfolio.github.io/publication/2024-07-01-development-mobile-robot-smart-warehouse) published in the KBTU Herald journal. 
-      Collaborated on developing a LIDAR-based navigation and grid-positioning algorithm for the TurtleBot3 Waffle Pi to enable autonomous warehouse operation. Integrated a 3D-printed lifting mechanism and OPC UA connectivity with Wiren Board 7 and Honeywell Experion PKS for seamless industrial communication.
+* ### A Vision-Based Safety System for Human–Robot Collaboration Using a Real-Time Digital Twin in RoboDK
+  *[Journal of Mechanical Science and Technology (2026)](https://link.springer.com/article/10.1007/s12206-026-2213-6).*
+  A low-cost, vision-based safety monitoring system for human–robot collaboration in industrial environments. The robot's real-time digital twin defines dynamic safety zones around the human operator.
 
+* ### Autonomous Multi-Floor Inspection Mobile Legged-Robot with Elevator Integration
+  *Under review*
+  An autonomous legged inspection robot that navigates between floors using elevators, with 95% inspection precision and 90% reliability on floor transitions.
 
-* ### Autonomous Multi-Floor Inspection Mobile Legged-Robot with Elevator Integration **(Nature Scientific Journal (Q1), under review after revision)**.
-  Designed and implemented an autonomous inspection mobile legged-robot capable of elevator-assisted
-  multi-floor navigation, achieving 95 % inspection precision and 90% reliability in floor transitions
-
-
-* ### A vision-based safety system for human–robot collaboration using a real-time digital twin in RoboDK **(JMST 2025 Conference paper, under review after revision)**.
-  This work describes a low-cost, vision-based safety monitoring system for Human–Robot Collaboration
-  (HRC) in industrial environments
-
+* ### Development of a Mobile Robot Platform for Smart Warehouse Management
+  *[Herald of Kazakh-British Technical University (2024)](https://gholibqasobov.github.io/portfolio.github.io/publication/2024-07-01-development-mobile-robot-smart-warehouse).*
+  LiDAR-based navigation and grid positioning for an autonomous warehouse mobile robot, integrated with industrial control systems over OPC UA.
 
 <br/>
 
 # 🎉 Activities and Achievements
 
-🐾 Digital Bridge 2025 Robotics Hackathon Winner: Developed an autonomous navigation system for the Unitree Go2 robot dog to patrol complex maze-like environments, with a custom web interface for setting routes and viewing live camera feedback
+🥈 **National Competition of Students' Research Works (NIRS), 2026.** Automation and Control section. Awarded a Ministry diploma of the II degree; 35 works from 20 universities competed.
 
-🏅 Finalist in the Electrical Engineering Olympiad hosted by Satpayev University.
+🥇 **1st Place, Digital Bridge 2025 Robotics Hackathon (Humanoid Robots track), Astana, 2025.** Built autonomous patrol navigation for a quadruped robot in maze-like environments, with a web interface for setting routes and watching the live camera.
 
+🏆 **The Best Tech Talent, KBTU Awards 2026.**
 
-🌿 Finalist in the KazEnergy Eco-Shell Competition (2024).
+🎤 **Invited Speaker, "Robotics Meets AI" workshop, KBTU (2025).** Delivered a lecture on the Robot Operating System (ROS) as the software foundation of modern robotic systems.
 
+🤖 **Judge, Robo-Football Competition, ITFest 2024 & 2025.** Also presented KBTU's robotics research and projects to visitors and industry representatives.
 
-🤖 Represented the KBTU Robotics Stand and served as a judge in Robo-Football Hackathon during ITFest 2024 & 2025.
-
-
-🌿 Contributed to the setup and operation of the **Arcobo** company’s stand at Kazakhstan Machinery Fair 2026 (Astana, April 1–3). Demonstrated the Astorino Kawasaki platform through motion replication, simple trajectory tasks, and pick-and-place operations, along with SimBox HIL simulation for safe programming and testing.
+🏅 **Finalist**, KAZENERGY Student Energy Challenge (2024) and the Open Olympiad in Electrical Engineering, Satbayev University (2023).
 
 <br/>
 
 # Projects
-💼 Feel free to check my specific [portfolio](https://gholibqasobov.github.io/portfolio.github.io/portfolio/) entry for more details!
+💼 See my [portfolio](https://gholibqasobov.github.io/portfolio.github.io/portfolio/) for details on each project.
