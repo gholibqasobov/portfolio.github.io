@@ -21,8 +21,11 @@ collection: portfolio
 </p>
 
 <figure class="fig">
-  <img src="{{ '/images/delivery/robot_platform.jpg' | relative_url }}" alt="Wheeled quadruped delivery robot in simulation">
-  <figcaption><b>Figure 1.</b> The delivery platform: a wheeled quadruped carrying a delivery compartment. Wheels give efficient motion on flat pavement, and legs let the robot handle curbs, ramps and uneven ground.</figcaption>
+  <div class="fig-row" style="flex-wrap: nowrap;">
+    <img style="flex: 0.5625 1 0;" src="{{ '/images/delivery/robot_real.jpg' | relative_url }}" alt="The real wheeled quadruped delivery robot">
+    <img style="flex: 1.5076 1 0;" src="{{ '/images/delivery/robot_platform.jpg' | relative_url }}" alt="Wheeled quadruped delivery robot in simulation">
+  </div>
+  <figcaption><b>Figure 1.</b> The delivery platform, a wheeled quadruped carrying a delivery compartment: the real robot (left) and its simulation model used for training (right). Wheels give efficient motion on flat pavement, and legs let the robot handle curbs, ramps and uneven ground.</figcaption>
 </figure>
 
 ## 1. Introduction
