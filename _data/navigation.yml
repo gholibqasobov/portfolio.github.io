@@ -4,15 +4,19 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 #
+# icon:    Font Awesome 6 solid icon name (optional)
 # new_tab: open the link in a new browser tab (optional)
 
 main:
   - title: "CV"
     url: /files/gholibjon_qasobov_cv_nov26.pdf
+    icon: fa-file-lines
     new_tab: true
 
   - title: "Portfolio"
     url: /portfolio/
+    icon: fa-briefcase
 
   - title: "Publications"
     url: /publications/
+    icon: fa-book-open
