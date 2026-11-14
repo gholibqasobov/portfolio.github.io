@@ -1,6 +1,6 @@
 ---
 title: "Toward Reasoning-Based Autonomous Navigation for Last-Mile Delivery Robots"
-excerpt: "Learned locomotion, navigation and safety for wheeled quadruped delivery robots, deployed in real deliveries in Almaty, and the path toward a vision-language-action policy that reasons about urban sidewalks. <br/> ![delivery_robot](/portfolio.github.io/images/delivery/robot_platform.jpg)
+excerpt: "Learned locomotion, navigation and safety for wheeled quadruped delivery robots, deployed in real deliveries in Almaty, and the path toward a vision-language-action policy that reasons about urban sidewalks. <br/> ![delivery_robot](/portfolio.github.io/images/delivery/robot_real_thumb.jpg)
 
 "
 collection: portfolio
