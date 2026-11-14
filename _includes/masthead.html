@@ -13,7 +13,9 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% assign link_path = base_path | append: link.url %}
+            {% assign page_path = base_path | append: page.url %}
+            <li class="masthead__menu-item masthead__menu-item--btn"><a href="{{ domain }}{{ link.url }}"{% if link.new_tab %} target="_blank" rel="noopener"{% endif %}{% if page_path == link_path %} class="is-active" aria-current="page"{% endif %}>{% if link.icon %}<i class="fa-solid {{ link.icon }}" aria-hidden="true"></i>{% endif %}<span>{{ link.title }}</span></a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>

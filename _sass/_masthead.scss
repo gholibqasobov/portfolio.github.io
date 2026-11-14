@@ -56,3 +56,81 @@
     font-weight: 700;
   }
 }
+
+/* Navigation buttons: pill-shaped, with icon, so they read as clickable */
+$nav-btn-color: $link-color;
+
+.greedy-nav .visible-links .masthead__menu-item--btn {
+  padding-left: 0.5rem;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45em;
+    margin: 0;
+    padding: 0.45rem 1.05rem;
+    border: 1px solid mix(#fff, $nav-btn-color, 55%);
+    border-radius: 999px;
+    background: mix(#fff, $nav-btn-color, 92%);
+    color: mix(#000, $nav-btn-color, 15%);
+    font-size: 0.9em;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    line-height: 1.2;
+    box-shadow: 0 1px 2px rgba(#000, 0.06);
+    transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease,
+                box-shadow 0.18s ease, transform 0.18s ease;
+
+    i {
+      font-size: 0.9em;
+      opacity: 0.85;
+    }
+
+    /* replace the theme's underline-on-hover with the button styling */
+    &:before {
+      display: none;
+    }
+
+    &:hover,
+    &:focus-visible {
+      background: $nav-btn-color;
+      border-color: $nav-btn-color;
+      color: #fff;
+      box-shadow: 0 4px 10px rgba($nav-btn-color, 0.28);
+      transform: translateY(-1px);
+
+      i {
+        opacity: 1;
+      }
+    }
+
+    &:focus-visible {
+      outline: 2px solid mix(#fff, $nav-btn-color, 40%);
+      outline-offset: 2px;
+    }
+
+    &:active {
+      transform: translateY(0);
+      box-shadow: 0 1px 2px rgba(#000, 0.1);
+    }
+
+    &.is-active {
+      background: $nav-btn-color;
+      border-color: $nav-btn-color;
+      color: #fff;
+    }
+  }
+}
+
+/* Items moved into the overflow menu on narrow screens keep a simple list style */
+.greedy-nav .hidden-links .masthead__menu-item--btn a {
+  display: flex;
+  align-items: center;
+  gap: 0.6em;
+
+  i {
+    width: 1.1em;
+    text-align: center;
+    color: $nav-btn-color;
+  }
+}
