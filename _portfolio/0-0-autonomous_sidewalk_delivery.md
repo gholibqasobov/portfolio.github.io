@@ -153,22 +153,27 @@ From a single real ride, the model generates the same trajectory under new weath
 
 ### 4.2 Generating safety-critical edge cases
 
-The rarest events are often the most dangerous, and they cannot be staged safely with a real robot. Conditioned on the last frames of a real recording, the model imagines how the scene could continue. In the example below, recorded at our delivery depot, a courier steps out from behind a parked van carrying a crate and walks directly into the robot's path. This occlusion-driven hazard appears suddenly, leaves little time to react, and is exactly the kind of event a sidewalk robot must anticipate.
+The rarest events are often the most dangerous, and they cannot be staged safely with a real robot. Given only the first five frames of a real recording, the model imagines how the scene could continue. Each example below shows the real recording (left) next to the generated future (right). Both start from the same five frames and then diverge: the real ride continues uneventfully, while the generated one introduces a hazard.
+
+In the first example, recorded at our delivery depot, a courier steps out from behind a parked van carrying a crate and walks directly into the robot's path. This hazard emerges from behind an occlusion, appears suddenly and leaves little time to react, which is exactly the kind of event a sidewalk robot must anticipate.
 
 <figure class="fig">
   <video autoplay loop muted playsinline controls preload="metadata">
     <source src="{{ '/videos/delivery/wfm_predict_courier.mp4' | relative_url }}" type="video/mp4">
   </video>
-  <figcaption><b>Figure 12.</b> A generated future from a real moment at the delivery depot: a courier emerges from behind a van into the robot's path. The model keeps the scene, the lighting and the parked vehicles consistent while introducing a plausible new agent. Faces are blurred.</figcaption>
+  <figcaption><b>Figure 12.</b> Real recording (left) versus generated future (right) at the delivery depot. In reality nobody appears. In the generated future, a courier emerges from behind the van into the robot's path, while the scene, lighting and parked vehicles stay consistent with the real footage. The real recording ends after about 2.5 seconds, so its last frame is held. Faces and licence plates are blurred.</figcaption>
 </figure>
 
-The same approach produces other urban hazards: a car door swinging open into the sidewalk, or a cyclist riding fast toward the robot on a narrow path.
+The same approach produces other urban hazards from ordinary sidewalk rides: a car door swinging open into the sidewalk, and a cyclist riding fast toward the robot on a narrow path.
 
 <figure class="fig">
   <video autoplay loop muted playsinline controls preload="metadata">
-    <source src="{{ '/videos/delivery/wfm_predict_edge_cases.mp4' | relative_url }}" type="video/mp4">
+    <source src="{{ '/videos/delivery/wfm_predict_cardoor.mp4' | relative_url }}" type="video/mp4">
   </video>
-  <figcaption><b>Figure 13.</b> Generated futures from real moments: a parked car's door opens into the robot's path (left), and an oncoming cyclist on a narrow sidewalk (right). Faces and licence plates are blurred.</figcaption>
+  <video autoplay loop muted playsinline controls preload="metadata" style="margin-top:8px">
+    <source src="{{ '/videos/delivery/wfm_predict_cyclist.mp4' | relative_url }}" type="video/mp4">
+  </video>
+  <figcaption><b>Figure 13.</b> Real recordings (left) versus generated futures (right) from the same starting frames. Top: the robot passes a parked SUV, and in the generated future its door swings open into the sidewalk. Bottom: on a narrow sidewalk, the generated future adds a cyclist riding straight toward the robot. Faces and licence plates are blurred.</figcaption>
 </figure>
 
 ### 4.3 Reasoning about the scene and the next action
